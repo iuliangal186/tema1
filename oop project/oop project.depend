@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1584350226 source:d:\codeblocks\oop project\main.cpp
+	<iostream>
+	"my_class.cpp"
+
+1584355785 source:d:\codeblocks\oop project\my_class.cpp
+	<iostream>
+
+1584356448 d:\codeblocks\oop project\my_class.cpp
+	<iostream>
+
+1584355604 source:d:\codeblocks\oop project\stack_class.cpp
+	<iostream>
+	"my_class.cpp"
+
